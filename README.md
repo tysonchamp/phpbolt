@@ -29,4 +29,4 @@ https://phpbolt.com/wp-content/uploads
 
 Version Release
 -------------------
-V1.0.3
+V1.0.5
